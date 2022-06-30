@@ -749,3 +749,7 @@ span.text-red {
     margin: auto;
   }
 }
+
+.noSelect {
+  user-select: none;
+}
